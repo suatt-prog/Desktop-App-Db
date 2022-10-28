@@ -1,0 +1,10 @@
+C:\Users\90553\source\repos\stajDeneme\stajDeneme\bin\Debug\stajDeneme.exe.config
+C:\Users\90553\source\repos\stajDeneme\stajDeneme\bin\Debug\stajDeneme.exe
+C:\Users\90553\source\repos\stajDeneme\stajDeneme\bin\Debug\stajDeneme.pdb
+C:\Users\90553\source\repos\stajDeneme\stajDeneme\obj\Debug\stajDeneme.csproj.AssemblyReference.cache
+C:\Users\90553\source\repos\stajDeneme\stajDeneme\obj\Debug\stajDeneme.Form1.resources
+C:\Users\90553\source\repos\stajDeneme\stajDeneme\obj\Debug\stajDeneme.Properties.Resources.resources
+C:\Users\90553\source\repos\stajDeneme\stajDeneme\obj\Debug\stajDeneme.csproj.GenerateResource.cache
+C:\Users\90553\source\repos\stajDeneme\stajDeneme\obj\Debug\stajDeneme.csproj.CoreCompileInputs.cache
+C:\Users\90553\source\repos\stajDeneme\stajDeneme\obj\Debug\stajDeneme.exe
+C:\Users\90553\source\repos\stajDeneme\stajDeneme\obj\Debug\stajDeneme.pdb
